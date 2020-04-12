@@ -1,0 +1,11 @@
+TaxID: RO874231
+Name: Copiers and More
+Address: Strada Copiatoarelor 33
+City: Brasov, Romania
+
+WIID: 359254
+Type: Generate Yearly Report for Vendor
+Status: Open
+Date: 2018-07-07
+
+WI4-Can-Deloitte-TrainingQueue
